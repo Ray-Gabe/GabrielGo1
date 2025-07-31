@@ -1,3 +1,10 @@
-firebase-admin
-flask
 
+flask
+flask-login
+firebase-admin
+openai
+google-cloud-firestore
+google-api-python-client
+python-dotenv
+werkzeug
+requests
