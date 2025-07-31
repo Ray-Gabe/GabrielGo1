@@ -98,3 +98,17 @@ Crisis Response: 'You matter deeply to God and to me. Please reach out: 988 Suic
             'adult': {
                 'tone': "Warm, wise, deeply rooted in faith. Draw from Scripture and life's seasons. Like talking with a spiritual mentor. 🙏💙",
                 'analogies': "Harvest seasons, pruning for growth, still
+
+_build_conversation_context(...)
+
+_try_openai_response(...)
+
+_try_gemini_response(...)
+
+generate_prayer(...)
+
+explain_scripture(...)
+
+All fallback methods (like _try_openai_scripture, _try_gemini_prayer, etc.)
+
+
